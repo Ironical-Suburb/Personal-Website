@@ -4,11 +4,11 @@ A modern personal website built with React, Vite, Tailwind CSS, and Django REST 
 
 ## Features
 
-- 🚀 **Modern Tech Stack**: React with Vite for fast development and hot reload
-- 🎨 **Beautiful UI**: Tailwind CSS for responsive and modern design
-- 🔧 **RESTful API**: Django REST Framework backend
-- 📱 **Responsive Design**: Works on all devices
-- ⚡ **Fast Performance**: Optimized with Vite
+- **Modern Tech Stack**: React with Vite for fast development and hot reload
+- **Beautiful UI**: Tailwind CSS for responsive and modern design
+- **RESTful API**: Django REST Framework backend
+- **Responsive Design**: Works on all devices
+- **Fast Performance**: Optimized with Vite
 
 ## Project Structure
 
