@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Personal-Website/', // GitHub repository path (update if your repo name is different)
+  base: '/', // Root path for Heroku deployment
   server: {
     port: 3001,
     proxy: {
