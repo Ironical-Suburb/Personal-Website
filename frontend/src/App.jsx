@@ -13,7 +13,7 @@ function App() {
   const theme = useTimeBasedTheme()
 
   return (
-    <Router>
+    <Router basename="/Personal-Website">
       <div className={`min-h-screen transition-colors duration-500 relative`} style={{ backgroundColor: 'transparent' }}>
         <AnimatedBackground />
         <div className="relative z-10 min-h-screen">
